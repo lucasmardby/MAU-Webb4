@@ -1,0 +1,59 @@
+body {
+  background-color: lightblue;
+}
+header {
+  background-color: black;
+  border-bottom: 2px solid white;
+  max-width: 1014px;
+}
+.headerText {
+  color: white;
+  text-align: center;
+}
+h1,
+h2 {
+  text-align: center;
+}
+.headerbackground {
+  margin-right: 45vw;
+}
+.pFirst {
+  background-color: lightgreen;
+  padding: 10px;
+  border-style: solid;
+  border-color: white;
+  border-width: 10px;
+  max-width: 980px;
+}
+li {
+  font-style: italic;
+}
+.pSecond {
+  background-color: yellow;
+  padding: 10px;
+  border-style: solid;
+  border-color: black;
+  border-width: 10px;
+  max-width: 980px;
+}
+table {
+  border: 1px solid black;
+}
+th,
+td {
+  border: 1px;
+  min-width: 250px;
+}
+th {
+  background-color: darkblue;
+  color: white;
+}
+td {
+  background-color: white;
+  text-align: center;
+}
+.pThird {
+  font-style: italic;
+  font-weight: bold;
+  max-width: 1020px;
+}
