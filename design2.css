@@ -16,3 +16,8 @@ body {
 h1 {
   text-decoration: underline;
 }
+footer {
+  background-color: lightblue;
+  color: white;
+  text-align: center;
+}
